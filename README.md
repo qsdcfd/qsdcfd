@@ -30,6 +30,19 @@ Here are some ideas to get you started:
 # Experiences
 ---- 
 ## AIFFEL(2021.09.06 ~ 2022.03.13)
+
+- AI/ML/DL
+
+- CV
+
+ 
 ## Public data internship(2021.09.13~2021.12.17)
+
+- Work: Data quality Control
+
+- Tool: API, SQL
+
 ## COCRE(2021.12.01~2022.02.28)
+
+
 
