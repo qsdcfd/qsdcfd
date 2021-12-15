@@ -28,12 +28,11 @@ Here are some ideas to get you started:
 
 
 Experiences
-
 --- 
 
-# AIFFEL(2021.09.06 ~ 2022.03.13)
+## AIFFEL(2021.09.06 ~ 2022.03.13)
 
-# Public data internship(2021.09.13~2021.12.17)
+## Public data internship(2021.09.13~2021.12.17)
 
-# COCRE(2021.12.01~2022.02.28)
+## COCRE(2021.12.01~2022.02.28)
 
