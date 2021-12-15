@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning AI/ML/DL/CV
 
 - 📫 How to reach me: leesehyun01@gmail.com
-- 
+
+- 😄 My Engineering Blog: https://velog.io/@qsdcfd
+
 <!--
 **qsdcfd/qsdcfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
