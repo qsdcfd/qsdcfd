@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 
 ## COCRE(2021.12.01~2022.02.28)
 
-
+- CV입문자를 위한 블로그를 컨텐츠 형식으로 작성했습니다.
 
