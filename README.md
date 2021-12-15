@@ -23,12 +23,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Computer Vision-3DDC84?style=flat-square&logo=Computer Vision&logoColor=white"/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qsdcfd&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qsdcfd&show_icons=true&theme=radical) 
 
 
 
 # Experiences
----- 
+
+---
 ## AIFFEL(2021.09.06 ~ 2022.03.13)
 
 - AI/ML/DL
