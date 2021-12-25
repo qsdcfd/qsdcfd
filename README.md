@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 
 # Experiences
 
+## University of Twente
+
+- Chemical engeering
+
 ---
 ## AIFFEL(2021.09.06 ~ 2022.03.13)
 
