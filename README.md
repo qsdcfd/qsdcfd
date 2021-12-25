@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## University of Twente
 
-- Chemical engeering
+- Chemical engeering(Foundation)
 
 ---
 ## AIFFEL(2021.09.06 ~ 2022.03.13)
@@ -51,3 +51,4 @@ Here are some ideas to get you started:
 
 - CV입문자를 위한 블로그를 컨텐츠 형식으로 작성했습니다.
 
+- CV의 역사~ GAN
