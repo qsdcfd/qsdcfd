@@ -52,3 +52,6 @@ Here are some ideas to get you started:
 - CV입문자를 위한 블로그를 컨텐츠 형식으로 작성했습니다.
 
 - CV의 역사~ GAN
+
+
+[Sehyun_Lee_Resume and CV.PDF](https://github.com/qsdcfd/qsdcfd/files/7777288/Sehyun_Lee_Resume.and.CV.PDF)
