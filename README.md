@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 - Chemical engeering(Foundation)
 
+[Certificate.pdf](https://github.com/qsdcfd/qsdcfd/files/7781004/Certificate.pdf)
+
 ---
 ## AIFFEL(2021.09.06 ~ 2022.03.13)
 
