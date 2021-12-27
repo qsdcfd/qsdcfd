@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 - CV의 역사~ GAN
 
 
+## My history
+
 [Sehyun_Lee_Resume and CV.PDF](https://github.com/qsdcfd/qsdcfd/files/7777288/Sehyun_Lee_Resume.and.CV.PDF)
 
 [Portfolio.pdf](https://github.com/qsdcfd/qsdcfd/files/7777290/Portfolio.pdf)
