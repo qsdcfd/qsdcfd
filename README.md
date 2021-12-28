@@ -42,17 +42,16 @@ Here are some ideas to get you started:
 
 #### Tools
 <p>
-  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=Bitrise&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Opencv-B7178C?style=flat-square&logo=Opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-FFCA28?style=flat-square&logo=Keras&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tensorflow-39477F?style=flat-square&logo=Tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytorch-683D87?style=flat-square&logo=Pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
 
-<img src="https://img.shields.io/badge/Juypter Notebook-3DDC84?style=flat-square&logo=Juypter Notebook &logoColor=black"/>  <img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=black"/> 
+ 
 
-<img src="https://img.shields.io/badge/Opencv-3DDC84?style=flat-square&logo=Opencv &logoColor=blue"/> <img src="https://img.shields.io/badge/Keras-3DDC84?style=flat-square&logo=Keras &logoColor=white"/> <img src="https://img.shields.io/badge/Tensor flow-3DDC84?style=flat-square&logo=Tensor flow &logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch -3DDC84?style=flat-square&logo=Pytorch &logoColor=white"/>
 
 
 <br/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minssoj&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
