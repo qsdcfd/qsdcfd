@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </p>
 <p>
   <img src="https://img.shields.io/badge/Juypter Notebook-3DDC84?style=flat-square&logo=Juypter Notebook &logoColor=black"/>  
-  <img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Python-02569B?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 
 #### Tools
