@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  
 </p>
 <p>
-  <img src="https://img.shields.io/badge/jupyter notebook-3DDC84?style=flat-square&logo=jupyter notebook &logoColor=black"/>  
+  <img src="https://img.shields.io/badge/Jupyter notebook-3DDC84?style=flat-square&logo=Jupyter notebook &logoColor=black"/>  
   <img src="https://img.shields.io/badge/Python-02569B?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 
