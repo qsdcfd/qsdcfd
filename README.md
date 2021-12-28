@@ -1,10 +1,11 @@
 ### Welcome 👋
 
-## Contact
+
 
 <p>
-  <a href="https://velog.io/@qsdcfd" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:leesehyun01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leesehyun01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+💬 Blog:  <a href="https://velog.io/@qsdcfd" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  
+📫 How to reach me <a href="mailto:leesehyun01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leesehyun01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
 
 </p>
