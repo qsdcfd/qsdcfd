@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Computer Vision-3DDC84?style=flat-square&logo=Computer Vision&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/Opencv-3DDC84?style=flat-square&logo=Opencv&logoColor=blue"/> <img src="https://img.shields.io/badge/Keras-3DDC84?style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Tensor flow-3DDC84?style=flat-square&logo=Tensor flow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer Vision-3DDC84?style=flat-square&logo=Computer Vision&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=black"/> 
+
+<img src="https://img.shields.io/badge/Opencv-3DDC84?style=flat-square&logo=Opencv&logoColor=blue"/> <img src="https://img.shields.io/badge/Keras-3DDC84?style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Tensor flow-3DDC84?style=flat-square&logo=Tensor flow&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch -3DDC84?style=flat-square&logo=Pytorch &logoColor=white"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qsdcfd&show_icons=true&theme=radical) 
