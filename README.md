@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Opencv-3DDC84?style=flat-square&logo=Opencv&logoColor=blue"/> <img src="https://img.shields.io/badge/Keras-3DDC84?style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Tensor flow-3DDC84?style=flat-square&logo=Tensor flow&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch -3DDC84?style=flat-square&logo=Pytorch &logoColor=white"/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qsdcfd&show_icons=true&theme=radical) 
+![Anurag's GitHub stats]
 
 (https://github.com/anuraghazra/github-readme-stats) <br/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minssoj&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
