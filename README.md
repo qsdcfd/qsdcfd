@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 - Chemical engeering(Foundation)
 
-[Certificate.pdf](https://github.com/qsdcfd/qsdcfd/files/7781004/Certificate.pdf)
+
 
 ---
 ## AIFFEL(2021.09.06 ~ 2022.03.13)
@@ -85,13 +85,6 @@ Here are some ideas to get you started:
 - CV의 역사~ GAN
 
 
-## My history
 
-[Sehyun_Lee_Resume and CV.PDF](https://github.com/qsdcfd/qsdcfd/files/7777288/Sehyun_Lee_Resume.and.CV.PDF)
-
-[Portfolio.pdf](https://github.com/qsdcfd/qsdcfd/files/7782718/Portfolio.pdf)
-
-
-[1분 자기소개.docx](https://github.com/qsdcfd/qsdcfd/files/7782719/1.docx)
 
 
