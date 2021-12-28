@@ -25,6 +25,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 💪 Skills
+#### Platforms & Languages
+<p>
+  <img src="https://img.shields.io/badge/CV-3DDC84?style=flat-square&logo=CV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML-000000?style=flat-square&logo=ML&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DL-61DAFB?style=flat-square&logo=DL&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DS-02569B?style=flat-square&logo=DS&logoColor=white"/>
+ 
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+</p>
+
+#### Tools
+<p>
+  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=Bitrise&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+</p>
+
 <img src="https://img.shields.io/badge/Computer Vision-3DDC84?style=flat-square&logo=Computer Vision &logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Juypter Notebook-3DDC84?style=flat-square&logo=Juypter Notebook &logoColor=black"/>  <img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=black"/> 
