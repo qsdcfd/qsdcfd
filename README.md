@@ -36,10 +36,8 @@ Here are some ideas to get you started:
  
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Juypter Notebook-3DDC84?style=flat-square&logo=Juypter Notebook &logoColor=black"/>  
+  <img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=black"/> 
 </p>
 
 #### Tools
@@ -51,7 +49,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
-<img src="https://img.shields.io/badge/Computer Vision-3DDC84?style=flat-square&logo=Computer Vision &logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Juypter Notebook-3DDC84?style=flat-square&logo=Juypter Notebook &logoColor=black"/>  <img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=black"/> 
 
