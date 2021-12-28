@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 -->
 <img src="https://img.shields.io/badge/Computer Vision-3DDC84?style=flat-square&logo=Computer Vision&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=black"/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qsdcfd&show_icons=true&theme=radical) 
 
