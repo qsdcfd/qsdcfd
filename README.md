@@ -75,12 +75,9 @@ Here are some ideas to get you started:
 
 - CV
 
- 
-## Public data internship(2021.09.13~2021.12.17)
+## NVIDIA Developer(2022.01.17~ 2022.02.28)
 
-- Work: Data quality Control
-
-- Tool: API, SQL
+- Building Transformer-Based NLP Applications
 
 ## COCRE(2021.12.01~2022.02.28)
 
@@ -88,7 +85,12 @@ Here are some ideas to get you started:
 
 - CV의 역사~ GAN
 
+ 
+## Public data internship(2021.09.13~2021.12.17)
 
+- Work: Data quality Control
+
+- Tool: API, SQL
 
 
 
