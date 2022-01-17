@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 - CV
 
-## NVIDIA Developer(2022.01.17~ 2022.02.28)
+## NVIDIA DLI Ambassador Challenge(2022.01.17~ 2022.02.28)
 
 - Building Transformer-Based NLP Applications
 
