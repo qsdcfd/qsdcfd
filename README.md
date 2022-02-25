@@ -114,7 +114,8 @@
 
 #### Business Inteligence
 
-- 네이버 부스트코스) [데이터 시각화를 위한 태블로](https://www.boostcourse.org/ds121) 
+- 네이버 부스트코스) [데이터 시각화를 위한 태블로](https://www.boostcourse.org/ds121)
+- '부스트코스'[DataLit : 데이터다루기](https://www.boostcourse.org/ds103/joinLectures/84465) 
 - 'AB180 Academy' [실시간 데이터 기반으로 고객 관계 개선하기 with Braze](https://academy.ab180.co/courses/real-time-data-driven-engagement)
 
 #### 데이터베이스
@@ -149,8 +150,7 @@
 
 #### 기타
 
-- '부스트코스'[캡스톤 : 파이썬을 이용한 데이터 검색, 처리 및 시각화](https://www.boostcourse.org/cs203/joinLectures/178789)
-- '부스트코스'[파이썬을 이용한 웹 스크래핑(https://www.boostcourse.org/cs201/joinLectures/179628)
+- '부스트코스'[파이썬을 이용한 데이터베이스 처리](https://www.boostcourse.org/cs202/joinLectures/179700)
 - '부스트코스'[모두를 위한 컴퓨터과학(CS50 2019](https://www.boostcourse.org/cs112/joinLectures/41307)
 - '부스트코스'[모두를 위한 데이터 사이언스](https://www.boostcourse.org/ds101/joinLectures/261910)
 - '나도코딩' [파이썬 코딩 무료 강의 (활용편3) - 웹 크롤링? 웹 스크래핑! ](https://www.youtube.com/watch?v=yQ20jZwDjTE)
