@@ -100,6 +100,8 @@
 - 'SKplanet Tacademy' [토크ON 48차. Kaggle(캐글) 데이터분석 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfBKFj3HYWwk-jQlV8aNwgk)
 - '거친코딩' [기초부터 쌓아가는 머신러닝](https://www.youtube.com/playlist?list=PLX_N4a1EAHhes7qB9jnVrSadErtmeGh0A)
 - 네이버 부스트코스) [기초 데이터 분석을 위한 핵심 SQL](https://www.boostcourse.org/ds102)
+- '부스트코스'[캡스톤 : 파이썬을 이용한 데이터 검색, 처리 및 시각화](https://www.boostcourse.org/cs203/joinLectures/178789)
+- '부스트코스'[파이썬을 이용한 웹 스크래핑(https://www.boostcourse.org/cs201/joinLectures/179628)
 - 'AB180 Academy' [데이터 기반으로 프로덕트를 만든다는 것](https://academy.ab180.co/courses/data-driven-product-development)
 - '생활코딩' [머신러닝1](https://opentutorials.org/course/4548)
 
@@ -139,6 +141,7 @@
 
 #### 프로그래밍 언어
 
+- '부스트코스'[모두를 위한 파이썬](https://www.boostcourse.org/cs122/joinLectures/284901)
 - '생활코딩' [WEB2-JavaScript](https://www.youtube.com/playlist?list=PLuHgQVnccGMBB348PWRN0fREzYcYgFybf)
 - '김왼손의 왼손코딩' [[초급] 유기농냠냠파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYypeEoFNTfSHdFL5WRLAfmmm)
 - '김왼손의 왼손코딩' [[입문]한입에 쏙 파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYyontH0PECIUFFUdvATXWQEL)
@@ -146,5 +149,9 @@
 
 #### 기타
 
+- '부스트코스'[캡스톤 : 파이썬을 이용한 데이터 검색, 처리 및 시각화](https://www.boostcourse.org/cs203/joinLectures/178789)
+- '부스트코스'[파이썬을 이용한 웹 스크래핑(https://www.boostcourse.org/cs201/joinLectures/179628)
+- '부스트코스'[모두를 위한 컴퓨터과학(CS50 2019](https://www.boostcourse.org/cs112/joinLectures/41307)
+- '부스트코스'[모두를 위한 데이터 사이언스](https://www.boostcourse.org/ds101/joinLectures/261910)
 - '나도코딩' [파이썬 코딩 무료 강의 (활용편3) - 웹 크롤링? 웹 스크래핑! ](https://www.youtube.com/watch?v=yQ20jZwDjTE)
 
