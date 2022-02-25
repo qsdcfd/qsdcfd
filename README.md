@@ -160,3 +160,4 @@
 - '부스트코스'[모두를 위한 데이터 사이언스](https://www.boostcourse.org/ds101/joinLectures/261910)
 - '나도코딩' [파이썬 코딩 무료 강의 (활용편3) - 웹 크롤링? 웹 스크래핑! ](https://www.youtube.com/watch?v=yQ20jZwDjTE)
 
+- [블로그](https://velog.io/@qsdcfd)
