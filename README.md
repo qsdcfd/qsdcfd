@@ -43,7 +43,7 @@
  
     2)시각화 툴: Tableau, Power BI, Excel 
  
-   3) Oracle, MySQL,PostgreSQL, Python, R 기초
+    3)Oracle, MySQL,PostgreSQL, Python, R 기초
  
 -  **2022.1 공공데이터 청년인턴 전문교육(중고급) 이수**
   
