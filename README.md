@@ -24,16 +24,17 @@
   3) (기업명 비공개, AI-hub) 다중 분류 정형 데이터를 활용하여 정확도 향상 프로젝트
 
 - **2021.12 ~ 2022.03 모두의 연구소 콘텐츠 크리에이터 팀**
-- 
+
   1) 파이썬, 데이터 분석, 데이터 사이언스, 머신러닝, 딥러닝의 내용을 블로그 포스팅
   2) 답러닝 중 컴퓨터 비전 부분을 담당함
  
 - **2022.02 ~ 2022.03 Google Cloud Study Jam**
-- Data Science on Google Cloud: Machine Learning
-- 
+   1)Data Science on Google Cloud: Machine Learning
+   2)Perform Foundational Data, ML, and AI Tasks in Google Cloud
+
 - **2022.01 ~ 2022.02 NVIDIA DLI 앰배서더 챌린지** 
 
-1) Fundmental Transformer with Pytorch
+   1) Fundmental Transformer with Pytorch
 
 - **2022.02.24 ~ 2022.02.25 성냥개비 2기** 
 
