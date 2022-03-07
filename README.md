@@ -8,6 +8,21 @@
 
 ### 활동
 
+- **2022.03 ~ 2022.07 가짜연구소 4기 크루: DSF**
+
+    1)Data Analysis with Oracle SQL, MySQL, Python,R
+ 
+    2)시각화 툴: Tableau, Power BI, Excel 
+ 
+    3)Oracle, MySQL,PostgreSQL, Python, R 기초
+ 
+- **2022.02 ~ 2022.03 Google Cloud Study Jam**
+
+   1)Data Science on Google Cloud: Machine Learning
+   
+   2)Perform Foundational Data, ML, and AI Tasks in Google Cloud
+
+
 - **2021.9 ~ 2022.3 모두의 연구소 인공지능 전문가 과정 대전2기 졸업**
   1) (캐글 데이터 활용) 방한 외국인 정형 데이터를 활용하여 효과적인 마케팅 전략 수립 프로젝트 
   2) 정형, 비정형 데이터를 활용한 머신러닝, 딥러닝 인사이트 찾기 프로젝트
@@ -27,12 +42,7 @@
 
   1) 파이썬, 데이터 분석, 데이터 사이언스, 머신러닝, 딥러닝의 내용을 블로그 포스팅
   2) 답러닝 중 컴퓨터 비전 부분을 담당함
- 
-- **2022.02 ~ 2022.03 Google Cloud Study Jam**
-- 
-   1)Data Science on Google Cloud: Machine Learning
-   2)
-   3)Perform Foundational Data, ML, and AI Tasks in Google Cloud
+
 
 - **2022.01 ~ 2022.02 NVIDIA DLI 앰배서더 챌린지** 
 
@@ -40,13 +50,6 @@
 
 - **2022.02.24 ~ 2022.02.25 성냥개비 2기** 
 
-- **2022.03 ~ 가짜연구소 4기 크루: DSF**
-
-    1)Data Analysis with Oracle SQL, MySQL, Python,R
- 
-    2)시각화 툴: Tableau, Power BI, Excel 
- 
-    3)Oracle, MySQL,PostgreSQL, Python, R 기초
  
 -  **2022.1 공공데이터 청년인턴 전문교육(중고급) 이수**
   
