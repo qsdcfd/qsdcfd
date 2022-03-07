@@ -24,16 +24,34 @@
   3) (기업명 비공개, AI-hub) 다중 분류 정형 데이터를 활용하여 정확도 향상 프로젝트
 
 - **2021.12 ~ 2022.03 모두의 연구소 콘텐츠 크리에이터 팀**
+- 
   1) 파이썬, 데이터 분석, 데이터 사이언스, 머신러닝, 딥러닝의 내용을 블로그 포스팅
   2) 답러닝 중 컴퓨터 비전 부분을 담당함
  
 - **2022.02 ~ 2022.03 Google Cloud Study Jam**
+- Data Science on Google Cloud: Machine Learning
 - 
 - **2022.01 ~ 2022.02 NVIDIA DLI 앰배서더 챌린지** 
+
+1) Fundmental Transformer with Pytorch
+
 - **2022.02.24 ~ 2022.02.25 성냥개비 2기** 
-- **2022.03 ~ 가짜연구소 4기 크루: 캐글로 머신러닝 실습하기**
-- **2022.1 공공데이터 청년인턴 전문교육(중고급) 이수**
+
+- **2022.03 ~ 가짜연구소 4기 크루: DSF**
+
+ 1)Data Analysis with Oracle SQL, MySQL, Python,R
+ 2)시각화 툴: Tableau, Power BI, Excel 
+ 3) Oracle, MySQL,PostgreSQL, Python, R 기초
+ 
+-  **2022.1 공공데이터 청년인턴 전문교육(중고급) 이수**
+  1)Data Analysis and Visualzation with Pyhon, R
+
 - **2021.8 공공데이터 청년인턴십 직무교육 이수 (발행주체 : 한국정보화진흥원 원장)**
+
+  1) 공공 데이터 다루는 방법
+  2) MySQL이용하여 데이터 분석 및 보고서 작성
+  3) EXCEL를 활용한 데이터 시각화
+ 
 - **2019.09 ~ 2020.06 University of Twenty Foundation 졸업**
    - 일반 물리, 일반 화학
    - 선형대수학, 프로젝트(2인,4인,개인)
