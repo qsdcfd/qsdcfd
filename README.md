@@ -123,6 +123,7 @@
 
 #### Data Analysis
 
+- 'SKplanet Tacademy' [A/B TEST | T아카데미](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=160)
 - '러닝스푼' [설득력을 높여주는 데이터 기반 보고서 작성](https://learningspoons.com/course/detail/data_report/)
 - '포항공과대학교' [예측 및 분류를 위한 데이터 애널리틱스 기법](http://www.kmooc.kr/courses/course-v1:POSTECHk+IMEN472+2021_T1/about)
 - '건국대학교' [바이오헬스 빅데이터 마이닝](http://www.kmooc.kr/courses/course-v1:KKUk+CK_KKUkbio002+2017_T2/about)
