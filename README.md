@@ -29,8 +29,10 @@
   2) 답러닝 중 컴퓨터 비전 부분을 담당함
  
 - **2022.02 ~ 2022.03 Google Cloud Study Jam**
+- 
    1)Data Science on Google Cloud: Machine Learning
-   2)Perform Foundational Data, ML, and AI Tasks in Google Cloud
+   2)
+   3)Perform Foundational Data, ML, and AI Tasks in Google Cloud
 
 - **2022.01 ~ 2022.02 NVIDIA DLI 앰배서더 챌린지** 
 
