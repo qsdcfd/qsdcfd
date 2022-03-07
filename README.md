@@ -43,11 +43,11 @@
  
     2)시각화 툴: Tableau, Power BI, Excel 
  
-    3) Oracle, MySQL,PostgreSQL, Python, R 기초
+   3) Oracle, MySQL,PostgreSQL, Python, R 기초
  
 -  **2022.1 공공데이터 청년인턴 전문교육(중고급) 이수**
   
-  1)Data Analysis and Visualzation with Pyhon, R
+     1) Data Analysis and Visualzation with Pyhon, R
 
 - **2021.8 공공데이터 청년인턴십 직무교육 이수 (발행주체 : 한국정보화진흥원 원장)**
 
