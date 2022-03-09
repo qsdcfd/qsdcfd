@@ -15,6 +15,8 @@
     2)시각화 툴: Tableau, Power BI, Excel 
  
     3)Oracle, MySQL,PostgreSQL, Python, R 기초
+
+- **2022.03~2022.03 모각코: 파이썬 크롤링편**
  
 - **2022.02 ~ 2022.03 Google Cloud Study Jam**
 
