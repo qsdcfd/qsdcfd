@@ -15,6 +15,8 @@
     2)시각화 툴: Tableau, Power BI, Excel 
  
     3)Oracle, MySQL,PostgreSQL, Python, R 기초
+ 
+ - **KISA 핀테크 아카데미 과정 수료**
 
 - **2022.03~2022.03 모각코: 파이썬 크롤링편**
  
