@@ -17,7 +17,7 @@
     3)Oracle, MySQL,PostgreSQL, Python, R 기초
  
  - **KISA 핀테크 아카데미 과정 수료**
- - [핀테크 서비스 개발 과정(인슈어테크)](https://www.kisa.or.kr/401/form?postSeq=2901&page=2)
+    - [핀테크 서비스 개발 과정(인슈어테크)](https://www.kisa.or.kr/401/form?postSeq=2901&page=2)
 
 - **2022.03~2022.03 모각코: 파이썬 크롤링편**
  
