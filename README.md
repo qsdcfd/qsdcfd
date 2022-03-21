@@ -9,6 +9,8 @@
 
 ### 활동
 
+- **2022.03 ~ 미라클 모각고 데분 스터디: Kaggle 필사**
+ 
 - **2022.03 ~ 2022.07 가짜연구소 4기 크루: DSF**
 
     1)Data Analysis with Oracle SQL, MySQL, Python,R
