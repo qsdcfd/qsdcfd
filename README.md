@@ -13,9 +13,9 @@
 
 - **2022.03 ~ 미라클 모각고 데분 스터디: Kaggle 필사**
 
-- **2022.04 ~ 07 모두의 연구소 LAB :  Tech & Social Justice LAB  **
+- **2022.04 ~ 07 모두의 연구소 LAB :  Tech & Social Justice LAB **
 
-[관련 링크](https://modulabs-hub.oopy.io/#423cc221-71a1-4b56-be0a-d66395f66c73)
+    [관련 링크](https://modulabs-hub.oopy.io/#423cc221-71a1-4b56-be0a-d66395f66c73)
  
 - **2022.03 ~ 2022.07 가짜연구소 4기 크루: DSF**
 
