@@ -199,6 +199,7 @@
 
 
 #### 수학
+- '프리드버그 선형대수학(https://www.youtube.com/watch?v=sDZB7ozFytk&list=PL9k2wIz8VsfOjzW_nU_yRPFBoyS5C7ttG)
 - 'Sapientia a Dei' [차원축소 - 주성분분석(PCA)과 요인분석(Factor Analysis)](https://www.youtube.com/playlist?list=PLalb9l0_6WAqC_ytofaE-Q4SPsqgT3EmJ)
 - KOCW) 국민대학교 이옥연 교수님 [선형대수학 및 연습](http://www.kocw.net/home/search/kemView.do?kemId=694450)
 - ‘쑤튜브’ [10분 선형대수](https://www.youtube.com/playlist?list=PLdEdazAwz5Q_n47tqf0QY94ASCmWqeGX1)
