@@ -231,4 +231,3 @@
 - '패스트캠퍼스'[MLOPS](https://fastcampus.co.kr/data_online_mlops)[수강중]
 - [블로그](https://velog.io/@qsdcfd)
 - [깃허브](https://github.com/qsdcfd)
-- [_포토폴리오_.pdf](https://github.com/qsdcfd/qsdcfd/files/8308786/_._.pdf)
