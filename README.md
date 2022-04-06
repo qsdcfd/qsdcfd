@@ -11,6 +11,8 @@
 
 - **2022.04 ~ 2023.02 이어드림 스쿨 2기(핀테크, 바이오)**
 
+   [과정](https://github.com/qsdcfd/Year-dream)
+
 - **2022.03 ~ 미라클 모각고 데분 스터디: Kaggle 필사**
 
 - **2022.04 ~ 07 모두의 연구소 LAB :  Tech & Social Justice LAB**
