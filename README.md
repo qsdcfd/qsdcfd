@@ -86,6 +86,13 @@
    - 선형대수학, 프로젝트(2인,4인,개인)
 
 
+### Kaggle
+
+#### Binary classification : Tabular data
+[Titanic](https://www.kaggle.com/c/titanic)
+
+[Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
+
 ### 공부한 책
 
 - 딥러닝 교과서
