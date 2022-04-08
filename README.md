@@ -108,8 +108,7 @@
 
 [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1411.4038.pdf)
 
-[Object Detection](https://www.cv-
-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
+[Object Detection](https://paperswithcode.com/task/object-detection)
 
 [CAM](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
 
