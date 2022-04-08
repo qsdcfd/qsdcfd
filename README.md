@@ -103,12 +103,49 @@
 ### Papepr
 
 [Attention](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+
 [TX-RAY](https://paperswithcode.com/paper/tx-ray-quantifying-and-explaining-model)
+
 [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1411.4038.pdf)
-[Object Detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
+
+[Object Detection](https://www.cv-
+foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
+
 [CAM](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
+
 [Data augmentation](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 
+[DenseNet](https://arxiv.org/pdf/1608.06993.pdf)
+
+[ResNet](https://arxiv.org/pdf/1512.03385.pdf)
+
+[AdaIN Style Transfer](https://arxiv.org/abs/1703.06868)
+
+[Faster R-CNN And History of R-CNN](https://arxiv.org/abs/1506.01497)
+
+[Image Style Transfer CNN](https://rn-unison.github.io/articulos/style_transfer.pdf)
+
+[StyleGAN](https://arxiv.org/abs/1812.04948)
+
+[Batch Normalization](https://arxiv.org/abs/1502.03167)
+
+[GAN](https://arxiv.org/abs/1406.2661)
+
+[Transformer(NIPS2017)](https://arxiv.org/abs/1706.03762)
+
+[TextFooler(AAAI2020)](https://arxiv.org/abs/1907.11932)
+
+[Sequence to Sequence Learning with Neural Networks (NIPS 2014)](https://arxiv.org/abs/1409.3215)
+
+[ResNet(CVPR2016)](https://arxiv.org/abs/1512.03385)
+
+[StarGAN(CVPR 2018 Oral)](https://arxiv.org/abs/1711.09020)
+
+[Meta-Transfer Learning for Zero-Shot Super-Resolution](https://arxiv.org/abs/2002.12213)
+
+[Shadow Attack(ICLR 2020)](https://arxiv.org/abs/1909.10773)
+
+[DETR(ECCV 2020)](https://arxiv.org/abs/2005.12872)
 
 ### 공부한 책
 
