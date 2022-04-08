@@ -98,6 +98,18 @@
 
 [Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
 
+<br>
+
+### Papepr
+
+[Attention](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+[TX-RAY](https://paperswithcode.com/paper/tx-ray-quantifying-and-explaining-model)
+[Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1411.4038.pdf)
+[Object Detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
+[CAM](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
+[Data augmentation](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
+
+
 ### 공부한 책
 
 - 딥러닝 교과서
