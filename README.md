@@ -239,6 +239,20 @@
 - '부스트코스'[DataLit : 데이터다루기](https://www.boostcourse.org/ds103/joinLectures/84465) 
 - 'AB180 Academy' [실시간 데이터 기반으로 고객 관계 개선하기 with Braze](https://academy.ab180.co/courses/real-time-data-driven-engagement)
 
+#### 네트워크
+
+- 이어드림 2기 스쿨 패스트캠퍼스 강의
+
+- [CISCO네트워킹](https://www.youtube.com/watch?v=asYwnVQQctY&t=528s)
+
+#### 자료구조
+
+- 이어드림 2기 스쿨 패스트캠퍼스 강의
+
+#### 알고리즘
+
+- 이어드림 2기 스쿨 패스트
+
 #### 데이터베이스
 
 - '생활코딩' [관계형 데이터 모델링](https://www.youtube.com/playlist?list=PLuHgQVnccGMDF6rHsY9qMuJMd295Yk4sa)
