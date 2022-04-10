@@ -94,6 +94,9 @@
 ### Kaggle
 
 #### Binary classification : Tabular data
+
+[Housing Price](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr)
+
 [Titanic](https://www.kaggle.com/c/titanic)
 
 [Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
