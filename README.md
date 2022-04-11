@@ -27,12 +27,18 @@
  
     3)Oracle, MySQL,PostgreSQL, Python, R 기초
  
+- **2022.04 ~ 2022.05 Google Cloud Study Jam(중급)
+
+    1)Data Science on Google Clould: Machine Learning
+    
+    2)Machine Learning APIs
+ 
  - **KISA 핀테크 아카데미 과정 수료**
     - [핀테크 서비스 개발 과정(인슈어테크)](https://www.kisa.or.kr/401/form?postSeq=2901&page=2)
 
 - **2022.03~2022.03 모각코: 파이썬 크롤링편**
  
-- **2022.02 ~ 2022.03 Google Cloud Study Jam**
+- **2022.02 ~ 2022.03 Google Cloud Study Jam(초급)**
 
    1)Data Science on Google Cloud: Machine Learning
    
