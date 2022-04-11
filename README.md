@@ -27,7 +27,7 @@
  
     3)Oracle, MySQL,PostgreSQL, Python, R 기초
  
-- **2022.04 ~ 2022.05 Google Cloud Study Jam(중급)
+- **2022.04 ~ 2022.05 Google Cloud Study Jam(중급)**
 
     1)Data Science on Google Clould: Machine Learning
     
