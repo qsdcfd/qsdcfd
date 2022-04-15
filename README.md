@@ -103,6 +103,8 @@
 
 [Housing Price](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr)
 
+- [My code](https://github.com/qsdcfd/AIFFEL/blob/TIL/Personal-Project/Exploration/EX6/ex06%5D%EB%82%98%EC%9D%98%20%EC%B2%AB%20%EC%BA%90%ED%81%B4%20%EB%8F%84%EC%A0%84%EA%B8%B0.sehyun.ipynb)
+
 [Titanic](https://www.kaggle.com/c/titanic)
 
 - [My code](https://github.com/qsdcfd/kaggle/tree/TIL/Porto_Seguro%E2%80%99s%20Safe%20Driver_Prediction)
