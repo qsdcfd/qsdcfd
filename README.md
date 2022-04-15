@@ -115,10 +115,6 @@
 
 [TX-RAY](https://paperswithcode.com/paper/tx-ray-quantifying-and-explaining-model)
 
-[Data augmentation](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
-
-[AdaIN Style Transfer](https://arxiv.org/abs/1703.06868)
-
 [Batch Normalization](https://arxiv.org/abs/1502.03167)
 
 [Transformer(NIPS2017)](https://arxiv.org/abs/1706.03762)
