@@ -267,6 +267,8 @@
 
 #### 프로그래밍 언어
 
+- [초보자를 위한 파이썬 300제](https://wikidocs.net/book/922)
+- [점프 투 파이썬](https://wikidocs.net/book/1)
 - '부스트코스'[모두를 위한 파이썬](https://www.boostcourse.org/cs122/joinLectures/284901)
 - '생활코딩' [WEB2-JavaScript](https://www.youtube.com/playlist?list=PLuHgQVnccGMBB348PWRN0fREzYcYgFybf)
 - '김왼손의 왼손코딩' [[초급] 유기농냠냠파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYypeEoFNTfSHdFL5WRLAfmmm)
