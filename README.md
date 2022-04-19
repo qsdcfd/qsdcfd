@@ -236,10 +236,12 @@
 
 #### 자료구조
 
+- [자료구조와 알고리즘](https://www.youtube.com/watch?v=PIidtIBCjEg&list=PLsMufJgu5933ZkBCHS7bQTx0bncjwi4PK)
 - 이어드림 2기 스쿨 패스트캠퍼스 강의
 
 #### 알고리즘
 
+- [알고리즘](https://www.youtube.com/watch?v=M2mcJvmYpWY&list=PLsMufJgu5932XYejsOwcUDJ2F75f56nrl)
 - 이어드림 2기 스쿨 패스트캠퍼스 강의
 
 #### 데이터베이스
@@ -258,6 +260,7 @@
 - '부스트코스'[인공지능을 위한 선형대수](https://www.boostcourse.org/ai251/lecture/540310?isDesc=false)
 
 #### 통계
+
 - '유튜브'[제대로 시작하는 기초 통계학](https://www.youtube.com/watch?v=jGOqkljySu8&list=PLsri7w6p16vuDN55ZGHVYnitXs2R1Wz6q)
 - '부산대학교' [[A.I. SERIES] R을 활용한 통계학개론](http://www.kmooc.kr/courses/course-v1:PNUk+RS_C01+2021_KM_010/course/)
 - 'KC대학교 빅데이터경영학과 이상철 교수' [통계분석 with SPSS](https://www.youtube.com/playlist?list=PLEUKy_nwlzwH4XXK3hhiG2huy0eOpa-Js)
