@@ -111,6 +111,11 @@
 
 [Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
 
+- [My Code](https://github.com/qsdcfd/kaggle/tree/TIL/Porto_Seguro%E2%80%99s%20Safe%20Driver_Prediction)
+
+[Home_Credit Default_Risk](https://www.kaggle.com/c/home-credit-default-risk)
+
+- [My code](https://github.com/qsdcfd/kaggle/tree/TIL/Home_Credit%20Default_Risk/Intro)
 <br>
 
 ### Paper
