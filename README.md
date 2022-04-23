@@ -257,6 +257,8 @@
 
 #### 데이터베이스
 
+- 'T아카데미' [NoSQL](https://www.youtube.com/watch?v=2boOF8zndns&list=PL9mhQYIlKEheyXIEL8RQts4zV_uMwdWFj)
+- 'T아카데미' [데이터베이스](https://www.youtube.com/watch?v=LE57D7eRrVY&list=PL9mhQYIlKEhfSbSbHnUNltrTbDzTRvMcA)
 - '생활코딩' [관계형 데이터 모델링](https://www.youtube.com/playlist?list=PLuHgQVnccGMDF6rHsY9qMuJMd295Yk4sa)
 - '박재호' [즐겁게 배우는 SQL](https://www.youtube.com/playlist?list=PLdntWJk2tJPLinuRXcokohNLgc83ejwUt)
 - '국민대학교 김남규 교수' [데이터베이스 실무](https://www.youtube.com/playlist?list=PLg_wJlcMiuKtiEBQLNxQNBQpH5oQm9r1N)
