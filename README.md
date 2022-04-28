@@ -99,7 +99,7 @@
 
 ### Kaggle
 
-#### Binary classification : Tabular data
+#### 필사
 
 [Housing Price](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr)
 
@@ -116,7 +116,10 @@
 [Home_Credit Default_Risk](https://www.kaggle.com/c/home-credit-default-risk)
 
 - [My code](https://github.com/qsdcfd/kaggle/tree/TIL/Home_Credit%20Default_Risk/Intro)
+
 <br>
+
+#### Competition
 
 ### Paper
 
@@ -185,6 +188,9 @@
 
 ### 읽은 책
 
+- 빅데이터 분삭과 활용
+ - 빅데이터 기초:개념,동인,기법
+- 1년 안에 AI 빅데이터 전문가가 되는 법- 서대호
 - IT진로를 고민하는 이들을 위한 지침서 코딩 진로
 - 데이터 과학자 되는 법 : 취업, 이직부터 탄탄한 커리어를 쌓는 방법까지
 - (데이터 분석가의) 숫자유감
@@ -200,7 +206,7 @@
 - 애자일, 민첩하고 유연한 조직의 비밀 - 스티븐데닝
 - 데이터로 성장하는 그로스해킹 -   양승화
 - 된다! 마케팅 자동화 -  박주훈, 황준식
-- 1년 안에 AI 빅데이터 전문가가 되는 법- 서대호
+
 
 ### 외부 수강 과목 및 참고 강의
 
