@@ -83,9 +83,16 @@
 - 딥러닝 교과서                             
 - 모두의 연구소 AIFFEL LMS
 
+#### Kaggle 필사
+
+**[이유한 캐글 필사](https://kaggle-kr.tistory.com/32)**
+
+- 매일 1~ 1시간30분
+- 일요일은 캐글에서 배운 내용 Tistory 정리
+
 <br>
 
-### Kaggle competiion
+### Kaggle Competition
 
-[H&M Personalized Fashion Recommendations](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations)
+- [Predict futures sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
 
