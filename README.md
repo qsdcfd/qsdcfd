@@ -87,6 +87,9 @@
 
 **[이유한 캐글 필사](https://kaggle-kr.tistory.com/32)**
 
+
+*[My_code](https://github.com/qsdcfd/kaggle)*
+
 - 매일 1~ 1시간30분
 - 일요일은 캐글에서 배운 내용 Tistory 정리
 
