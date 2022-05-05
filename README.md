@@ -97,5 +97,5 @@
 
 ### Kaggle Competition
 
-- [Predict futures sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
+- [JPX Tokyo Stock Exchange Prediction](https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction)
 
