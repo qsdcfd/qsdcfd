@@ -5,6 +5,8 @@
 
 ### Interests
 
+**Social Science**
+
 **E-commerce**
 
 **Buzz Analytics**
@@ -20,6 +22,12 @@
 **Big data utilization**
 
 **Structured and unstructured data**
+
+<br>
+
+### 모두의 연구소 LAB
+
+[Tech & Social Justice LAB](https://modulabs-hub.oopy.io/c874757d-4a5b-431e-808b-324d2e0e786a)
 
 <br>
 
