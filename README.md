@@ -99,6 +99,13 @@
 - 딥러닝 교과서                             
 - 모두의 연구소 AIFFEL LMS
 
+<br>
+
+### Open Source 필사
+
+- [pd.merge](https://github.com/pandas-dev/pandas/blob/main/pandas/core/reshape/merge.py)
+- [python iterate]
+
 #### Kaggle 필사
 
 **[이유한 캐글 필사](https://kaggle-kr.tistory.com/32)**
