@@ -52,7 +52,7 @@
 
 <br>
 
-### Math 
+### Linear algebra
 
 **모델의 성능을 높이고 논문 수식에 대한 이해를 높이고 싶습니다.**
 
@@ -68,6 +68,7 @@
 
 - Mathematical Statistics and Data Analysis
 - Practical Statistics for Data Scientists
+- [코드로 공식구현](https://github.com/qsdcfd/Year-dream/tree/TIL/Theory/Math)
  
 <br>
 
@@ -104,7 +105,7 @@
 ### Open Source 필사
 
 - [pd.merge](https://github.com/pandas-dev/pandas/blob/main/pandas/core/reshape/merge.py)
-- [python iterate]
+
 
 #### Kaggle 필사
 
@@ -113,7 +114,7 @@
 
 *[My_code](https://github.com/qsdcfd/kaggle)*
 
-- 매일 1~ 1시간30분
+-  1~ 1시간30분
 - 일요일은 캐글에서 배운 내용 Tistory 정리
 
 <br>
@@ -121,4 +122,10 @@
 ### Kaggle Competition
 
 - [JPX Tokyo Stock Exchange Prediction](https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction)
+
+<br>
+
+### Project
+
+- [패스트 캠퍼스의 E-commerce data](https://github.com/qsdcfd/Data_Hackthon)
 
