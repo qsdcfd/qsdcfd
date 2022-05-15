@@ -127,5 +127,7 @@
 
 ### Project
 
+- [이커머스 데이터를 활용한 데이터 분석 with 파이썬]
+
 - [패스트 캠퍼스의 E-commerce data](https://github.com/qsdcfd/Data_Hackthon)
 
