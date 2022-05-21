@@ -1,4 +1,4 @@
-## 안녕하세요, 추천시스템, 검색엔지, 텍스트 마이닝에 관심임 많은 ML엔지니어 
+## 안녕하세요, 추천시스템, 검색엔진, 텍스트 마이닝에 관심임 많은 ML엔지니어 
 
 **저의 커러어를 위한 노력들입니다.(추가적인 것읜 [my_stroy repositories](https://github.com/qsdcfd/my_story)에 있습니다)**
 
@@ -132,7 +132,7 @@
 
 <br>
 
-### Paper
+### [Paper](https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd)
 
 #### Machine Learning Basics
 
