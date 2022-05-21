@@ -95,9 +95,8 @@
 <br>
 
 ### 머신러닝
-
-- 핸즈온 머신러닝
-- 딥러닝 교과서                             
+- 단단한 머신러닝
+- 핸즈온 머신러닝                           
 - 모두의 연구소 AIFFEL LMS
 
 <br>
@@ -131,3 +130,28 @@
 
 - [패스트 캠퍼스의 E-commerce data](https://github.com/qsdcfd/Data_Hackthon)
 
+<br>
+
+### Paper
+
+#### Machine Learning Basics
+
+<br>
+
+#### Data Mining
+
+<br>
+
+#### Supervised Learning
+
+<br>
+
+#### Unsupervised Learning
+
+<br>
+
+#### NLP
+
+<br>
+
+#### Recommendation System
