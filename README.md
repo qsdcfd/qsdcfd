@@ -136,6 +136,10 @@
 
 #### Machine Learning Basics
 
+[The matrix calculus you need for deep learning](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cbb727dc-e28c-46a0-b4ad-21c26b234ff0/The_matrix_calculus_you_need_for_deep_learning.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220523%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220523T063508Z&X-Amz-Expires=86400&X-Amz-Signature=5cd02dc9cfbf9f69d7fd227a95f5db78d33098fc4785cc95668b8e6c675e4379&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22The%2520matrix%2520calculus%2520you%2520need%2520for%2520deep%2520learning.pdf%22&x-id=GetObject)
+
+
+
 <br>
 
 #### Data Mining
