@@ -142,15 +142,10 @@
 
 <br>
 
-#### Supervised Learning
-
-<br>
 
 #### Unsupervised Learning
 
-<br>
 
-#### NLP
 
 <br>
 
