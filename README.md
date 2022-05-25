@@ -115,22 +115,18 @@
 - [pd.merge](https://github.com/pandas-dev/pandas/blob/main/pandas/core/reshape/merge.py)
 
 
-#### Kaggle 필사
-
-**[이유한 캐글 필사](https://kaggle-kr.tistory.com/32)**
-
-
-*[My_code](https://github.com/qsdcfd/kaggle)*
-
--  1~ 1시간30분
-- 일요일은 캐글에서 배운 내용 Tistory 정리
-
-<br>
 
 ### Kaggle Competition
 
 - [JPX Tokyo Stock Exchange Prediction](https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction)
 
+- [Costa_Rican_Household_Poverty_Level_Prediction]
+- [Home_Credit Default_Risk](https://github.com/qsdcfd/kaggle/blob/TIL/Home_Credit%20Default_Risk/Intro/Home_Credit_Default_Risk_final.ipynb)
+
+- [Porto_Seguro’s Safe Driver_Prediction](https://github.com/qsdcfd/kaggle/blob/TIL/Porto_Seguro%E2%80%99s%20Safe%20Driver_Prediction/Porto_Seguro_Exploratory_Analysis_and_Prediction.ipynb)
+
+- [Titanic](https://github.com/qsdcfd/kaggle/blob/TIL/Titanic/EDA_TO_prediction_part_1_%EB%A7%88%EB%AC%B4%EB%A6%AC.ipynb)
+- 
 <br>
 
 ### Project
