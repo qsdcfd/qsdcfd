@@ -55,7 +55,7 @@
 
 <br>
 
-**University of Twente Foundation**
+**University of Twente**
 
 ### Python
 
