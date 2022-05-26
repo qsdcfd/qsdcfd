@@ -29,7 +29,7 @@
 
 - 중소기업벤처부 year-dream 2기 진행 중
 
-- 모두의 연구소 AIFFEL 대전 2기 졸업
+- 모두의연구소 AIFFEL 대전 2기 졸업
 
 <br>
 
@@ -41,7 +41,7 @@
 
 <br>
 
-**모두의 연구소 LAB**
+**모두의연구소 LAB**
 
 [Tech & Social Justice LAB](https://modulabs-hub.oopy.io/c874757d-4a5b-431e-808b-324d2e0e786a)
 
