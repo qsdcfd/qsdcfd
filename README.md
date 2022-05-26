@@ -35,18 +35,27 @@
 
 ### 활동
 
+**SKT 청년 고용지원 오픈콜라보 클래스 사업**
+
+참여주제 : 시각장애인의 눈이 되어줄 AI비서
+
+<br>
+
 **모두의 연구소 LAB**
 
 [Tech & Social Justice LAB](https://modulabs-hub.oopy.io/c874757d-4a5b-431e-808b-324d2e0e786a)
 
 <br>
 
-**SKT 청년 고용지원 오픈콜라보 클래스 사업**
-
-참여주제 : 시각장애인의 눈이 되어줄 AI비서
-
+**모두의연구소 COCRE 1기**
 
 <br>
+
+**NIA 공공데이터 일경험수련생**
+
+<br>
+
+**University of Twente Foundation**
 
 ### Python
 
