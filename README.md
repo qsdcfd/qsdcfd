@@ -129,7 +129,7 @@
 
 - [JPX Tokyo Stock Exchange Prediction](https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction)
 
-- [Costa_Rican_Household_Poverty_Level_Prediction]
+- [Costa_Rican_Household_Poverty_Level_Prediction](https://github.com/qsdcfd/kaggle/blob/TIL/Multi-class%20classification%20:%20Tabular%20data/Submission.ipynb)
 - [Home_Credit Default_Risk](https://github.com/qsdcfd/kaggle/blob/TIL/Home_Credit%20Default_Risk/Intro/Home_Credit_Default_Risk_final.ipynb)
 
 - [Porto_Seguro’s Safe Driver_Prediction](https://github.com/qsdcfd/kaggle/blob/TIL/Porto_Seguro%E2%80%99s%20Safe%20Driver_Prediction/Porto_Seguro_Exploratory_Analysis_and_Prediction.ipynb)
