@@ -115,15 +115,15 @@
 ### 머신러닝
 - 단단한 머신러닝
 - 핸즈온 머신러닝                           
-- 모두의 연구소 AIFFEL LMS
+- 모두의연구소 AIFFEL LMS
 
 <br>
 
-### Open Source 필사
+### 추천시스템
 
-- [pd.merge](https://github.com/pandas-dev/pandas/blob/main/pandas/core/reshape/merge.py)
+- Recommender Systems the textbook
 
-
+<br>
 
 ### Kaggle Competition
 
