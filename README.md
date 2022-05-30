@@ -124,15 +124,16 @@
 
 ### 추천시스템
 
-- [딥러닝을 이용한 추천시스템 올인원 패키지](https://github.com/qsdcfd/RS)
+- [추천시스템](https://github.com/qsdcfd/RS)
 - Recommender Systems the textbook
 
 <br>
 
 ### Kaggle Competition
 
-- [JPX Tokyo Stock Exchange Prediction](https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction)
 
+- [JPX Tokyo Stock Exchange Prediction](https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction)
+- [New York City Taxi Trip Duration]
 - [Costa_Rican_Household_Poverty_Level_Prediction](https://github.com/qsdcfd/kaggle/blob/TIL/Multi-class%20classification%20:%20Tabular%20data/Submission.ipynb)
 - [Home_Credit Default_Risk](https://github.com/qsdcfd/kaggle/blob/TIL/Home_Credit%20Default_Risk/Intro/Home_Credit_Default_Risk_final.ipynb)
 
