@@ -74,7 +74,7 @@
 
 **모델의 성능을 높이고 논문 수식에 대한 이해를 높이고 싶습니다.**
 
-- 머신러닝, 딥러닝에 필요한 기초 수학 with 파이썬
+- [머신러닝, 딥러닝에 필요한 기초 수학 with 파이썬](https://github.com/qsdcfd/Year-dream/tree/TIL/Foundation_math%20for%20ML%2CDL)
 - 갈버트 스트링 선형대수학
 - 프리드버그 선형대수학
 - 인공지능을 위한 선형대수학
