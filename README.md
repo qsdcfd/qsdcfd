@@ -63,7 +63,7 @@
 
 - Architecture Patterns with Python(공부예정)
 - Fluent pyhon
-- 파이썬 코딩의 기술
+- [파이썬 코딩의 기술](https://github.com/qsdcfd/Year-dream/tree/TIL/Theory/Python/PCT)
 - 점프 투 파이썬 
 - 코딩 도장 Python
 
@@ -115,7 +115,8 @@
 <br>
 
 ### 머신러닝
-- 단단한 머신러닝
+
+- [단단한 머신러닝](https://github.com/qsdcfd/Year-dream/tree/TIL/Machine_Learning)
 - 핸즈온 머신러닝                           
 - 모두의연구소 AIFFEL LMS
 
