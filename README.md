@@ -124,6 +124,7 @@
 
 ### 추천시스템
 
+- [딥러닝을 이용한 추천시스템 올인원 패키지](https://github.com/qsdcfd/RS)
 - Recommender Systems the textbook
 
 <br>
