@@ -74,6 +74,7 @@
 
 **모델의 성능을 높이고 논문 수식에 대한 이해를 높이고 싶습니다.**
 
+- 머신러닝, 딥러닝에 필요한 기초 수학 with 파이썬
 - 갈버트 스트링 선형대수학
 - 프리드버그 선형대수학
 - 인공지능을 위한 선형대수학
@@ -84,6 +85,7 @@
 
 **수리 통계학을 통해서 모델의 결과값에 대한 인사이트를 통해서 유의미한 결과를 도출하고 싶습니다**
 
+- 데이터 과학을 위한 통계(2판)
 - Mathematical Statistics and Data Analysis
 - Practical Statistics for Data Scientists
 - [코드로 공식구현](https://github.com/qsdcfd/Year-dream/tree/TIL/Theory/Math)
