@@ -31,6 +31,8 @@
 
 - 모두의연구소 AIFFEL 대전 2기 졸업
 
+- University of Twente
+
 <br>
 
 ### 활동
