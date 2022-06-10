@@ -128,15 +128,29 @@
 
 <br>
 
-### 추천시스템
+### RS
 
 - [추천시스템](https://github.com/qsdcfd/RS)
 - Recommender Systems the textbook
 
+
 <br>
 
-### Kaggle Competition
+### SE
 
+<br>
+
+### NLP
+
+<br>
+
+### RL
+
+<br>
+
+### Competition
+
+#### Kaggle
 
 - [JPX Tokyo Stock Exchange Prediction](https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction)
 - [New York City Taxi Trip Duration]
@@ -148,6 +162,12 @@
 - [Titanic](https://github.com/qsdcfd/kaggle/blob/TIL/Titanic/EDA_TO_prediction_part_1_%EB%A7%88%EB%AC%B4%EB%A6%AC.ipynb)
 - 
 <br>
+
+#### Dacon
+
+- [물류 유통량예측](https://github.com/qsdcfd/ML_Project)
+   - Top 7%
+- [Covid](https://github.com/Dacon-Covid/Dacon)
 
 ### Project
 
