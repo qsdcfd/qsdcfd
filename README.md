@@ -142,8 +142,15 @@
 
 ### NLP
 
+- [Project](https://github.com/qsdcfd/AIFFEL/tree/TIL)
+
 <br>
 
+### Computer Vision
+
+- [Project](https://github.com/qsdcfd/AIFFEL/tree/TIL)
+
+<br>
 ### RL
 
 <br>
