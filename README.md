@@ -186,8 +186,9 @@
 
 <br>
 
-### [Paper](https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd)
+### Paper
 
+-
 
 
 #### Text Data Mining
@@ -201,12 +202,8 @@
 
 <br>
 
-#### Recommendation System
+### book
 
-**Neural Collaborative Filtering**
-
-- [Paper](https://paperswithcode.com/paper/neural-collaborative-filtering)
-
-- [Code](https://github.com/microsoft/recommenders)
-- 
+- 1년안에 ai 빅데이터 전문가가 되는 법
+- 빅데이터는 어떻게 마케팅의 무기가 되는가
 
