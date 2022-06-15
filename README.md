@@ -172,9 +172,11 @@
 
 #### Dacon
 
-- [물류 유통량예측](https://github.com/qsdcfd/ML_Project)
-   - Top 7%
 - [Covid](https://github.com/Dacon-Covid/Dacon)
+
+- [음성분류]
+- [물류 유통량예측](https://github.com/qsdcfd/ML_Project)
+   - Top 5%
 
 ### Project
 
