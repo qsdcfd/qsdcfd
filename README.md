@@ -172,9 +172,10 @@
 
 #### Dacon
 
-- [Covid](https://github.com/Dacon-Covid/Dacon)
+- [Covid](https://github.com/qsdcfd/Covid_Dacon)
 
-- [음성분류]
+- [음성분류](https://github.com/qsdcfd/Voice_Classification)
+
 - [물류 유통량예측](https://github.com/qsdcfd/ML_Project)
    - Top 5%
 
