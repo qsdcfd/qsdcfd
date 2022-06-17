@@ -133,11 +133,6 @@
 - [추천시스템](https://github.com/qsdcfd/RS)
 - Recommender Systems the textbook
 
-
-<br>
-
-### SE
-
 <br>
 
 ### NLP
@@ -149,9 +144,6 @@
 ### Computer Vision
 
 - [Project](https://github.com/qsdcfd/AIFFEL/tree/TIL)
-
-<br>
-### RL
 
 <br>
 
@@ -179,9 +171,11 @@
 - [물류 유통량예측](https://github.com/qsdcfd/ML_Project)
    - Top 5%
 
+<br>
+
 ### Project
 
-- [머신러닝 프로젝트](https://github.com/qsdcfd/ML_Project)
+- [머신러닝 프로젝트 X 공공데이터 활용한 아이디어 경진대회](https://github.com/qsdcfd/ML_Project)
 
 - [이커머스 데이터를 활용한 데이터 분석 with 파이썬](https://github.com/qsdcfd/Year-dream/tree/TIL/Data_Analyst)
 
