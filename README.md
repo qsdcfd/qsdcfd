@@ -1,5 +1,8 @@
 ## 안녕하세요, 추천시스템, 검색엔진, 텍스트 마이닝에 관심 많은 ML엔지니어 
 
+[매일 기록하는 파이썬 공부](https://velog.io/@qsdcfd)
+[나의 관심사를 깊게 공부하는 블로그](https://tpgus343.tistory.com/)
+
 **저의 커러어를 위한 노력들입니다.(추가적인 것은 [my_stroy repositories](https://github.com/qsdcfd/my_story)에 있습니다)**
 
 
