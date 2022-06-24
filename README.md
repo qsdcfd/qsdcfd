@@ -155,15 +155,16 @@
 
 #### Kaggle
 
-- [JPX Tokyo Stock Exchange Prediction](https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction)
-- [New York City Taxi Trip Duration]
+**획득 메달: 동메달 8개**
+
 - [Costa_Rican_Household_Poverty_Level_Prediction](https://github.com/qsdcfd/kaggle/blob/TIL/Multi-class%20classification%20:%20Tabular%20data/Submission.ipynb)
+   - Top 6%
 - [Home_Credit Default_Risk](https://github.com/qsdcfd/kaggle/blob/TIL/Home_Credit%20Default_Risk/Intro/Home_Credit_Default_Risk_final.ipynb)
-
+   - Top 2%
 - [Porto_Seguro’s Safe Driver_Prediction](https://github.com/qsdcfd/kaggle/blob/TIL/Porto_Seguro%E2%80%99s%20Safe%20Driver_Prediction/Porto_Seguro_Exploratory_Analysis_and_Prediction.ipynb)
-
+   - Top 3%
 - [Titanic](https://github.com/qsdcfd/kaggle/blob/TIL/Titanic/EDA_TO_prediction_part_1_%EB%A7%88%EB%AC%B4%EB%A6%AC.ipynb)
-- 
+   - Top 3%
 <br>
 
 #### Dacon
@@ -171,7 +172,7 @@
 - [Covid](https://github.com/qsdcfd/Covid_Dacon)
 
 - [음성분류](https://github.com/qsdcfd/Voice_Classification)
-
+   - Top3%(6위)
 - [물류 유통량예측](https://github.com/qsdcfd/ML_Project)
    - Top 5%
 
