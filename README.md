@@ -141,6 +141,7 @@
 
 ### NLP
 
+- [Theory](https://github.com/qsdcfd/NLP)
 - [Project](https://github.com/qsdcfd/AIFFEL/tree/TIL)
 
 <br>
