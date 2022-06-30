@@ -173,7 +173,7 @@
 - [Covid](https://github.com/qsdcfd/Covid_Dacon)
 
 - [음성분류](https://github.com/qsdcfd/Voice_Classification)
-   - Top3%(6위)
+   - Top2.5%(6위)
 - [물류 유통량예측](https://github.com/qsdcfd/ML_Project)
    - Top 5%
 
