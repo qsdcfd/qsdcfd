@@ -41,19 +41,13 @@
 
 ### 활동
 
-**LG Aimers(2022.07.04~2022.08.26)**
+**모두의연구소 LAB**
 
-- Module 1. 『품질과 신뢰성』 - 한양대학교 배석주 교수
+[Tech & Social Justice LAB](https://modulabs-hub.oopy.io/c874757d-4a5b-431e-808b-324d2e0e786a)
 
-- Module 2. 『지도학습(분류/회귀)』 - 이화여자대학교 강제원 교수
-
-- Module 3. 『비지도학습』 - 서울대학교 이원종 교수
-
-- Module 4. 『설명가능한 AI(Explainable AI)』 - 서울대학교 문태섭 교수
-
-- Module 5. 『인과추론』 - 서울대학교 이상학 교수
-
-- Module 6. 『자율주행과 레이더센서의 이해』 - LG이노텍 김경석 연구위원
+- Text Mining
+- Data Analysis
+- Writing Paper
 
 <br> 
 
@@ -64,9 +58,8 @@
 
 <br>
 
-**모두의연구소 LAB**
 
-[Tech & Social Justice LAB](https://modulabs-hub.oopy.io/c874757d-4a5b-431e-808b-324d2e0e786a)
+**LG Aimers(2022.07.04~2022.08.26)**
 
 <br>
 
