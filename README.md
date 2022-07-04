@@ -1,5 +1,7 @@
 ## 안녕하세요, 추천시스템, 검색엔진, 텍스트 마이닝에 관심 많은 ML엔지니어 
 
+**한 줄 자기소개: 최고의 책은 Documentation Documentation 기반으로 공부했습니다.**
+
 [매일 기록하는 파이썬 공부](https://velog.io/@qsdcfd)
 
 [나의 관심사를 깊게 공부하는 블로그](https://tpgus343.tistory.com/)
