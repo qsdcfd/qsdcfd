@@ -33,6 +33,19 @@
 
 ### Education
 
+- 2022년 구글 스터디 잼 Kubernates
+
+- 2021년 구글 스터디 잼 AI/ML
+
+- 2022년 데이터 분석 청년인재 양성사업 온라인 교육
+
+- 2022 오픈소스 컨트리뷰션 아카데미
+
+- LG Aimers **자율주행**
+
+- 2021 NVIDIA DLI 대학 앰배서더 챌린지 
+   - Transformer
+
 - 중소기업벤처부 year-dream 2기 진행 중
 
 - 모두의연구소 AIFFEL 대전 2기 졸업
