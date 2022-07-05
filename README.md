@@ -136,13 +136,21 @@
 - Database System Concepts
 - Database Concepts
 
-#### SQL
+<br>
+
+### SQL
 
 - Postgresql -DBeaver
 - Oracle SQL
 - MySQL- MariaDB
 - NoSQL-MongoDB
 
+<br>
+
+### Data Pipeline
+
+- AWS
+- 
 
 <br>
 
