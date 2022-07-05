@@ -71,10 +71,7 @@
 - 참여 주제: 추천시스템
 
 
-<br>
 
-
-**LG Aimers(2022.07.04~2022.08.26)**
 
 <br>
 
@@ -141,8 +138,9 @@
 
 #### SQL
 
+- Postgresql -DBeaver
 - Oracle SQL
-- MySQL-Basic Query, sub Query
+- MySQL- MariaDB
 - NoSQL-MongoDB
 
 
@@ -150,6 +148,9 @@
 
 ### 머신러닝
 
+- Sklearn
+- Pytorch
+- Tensorflow
 - [단단한 머신러닝](https://github.com/qsdcfd/Year-dream/tree/TIL/Machine_Learning)
 - 핸즈온 머신러닝                           
 - 모두의연구소 AIFFEL LMS
@@ -161,22 +162,17 @@
 - [추천시스템](https://github.com/qsdcfd/RS)
 - Recommender Systems the textbook
 
-<br>
 
-### NLP
-
-- [Theory](https://github.com/qsdcfd/NLP)
-- [Project](https://github.com/qsdcfd/AIFFEL/tree/TIL)
-
-<br>
-
-### Computer Vision
-
-- [Project](https://github.com/qsdcfd/AIFFEL/tree/TIL)
 
 <br>
 
 ### Competition
+
+#### 창업경진대회
+
+- 제주도 공공데이터 활용 창업경진대회
+
+<br>
 
 #### Kaggle
 
@@ -193,6 +189,12 @@
 <br>
 
 #### Dacon
+
+- 데이콘 Basic Summer Shopping
+
+- 쇼핑몰 지점별 매출액 예측 경진대회
+
+- 쇼핑몰 리뷰 평점 분류 경진대회
 
 -  [LG AI 해커톤]
 
