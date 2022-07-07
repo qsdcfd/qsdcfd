@@ -208,12 +208,14 @@
 
 - [카드 거래 사기 탐지 AI모델]
 
-- [카드 소비 패턴 분석 시각화] 
+- [카드 소비 패턴 분석 시각화](https://github.com/qsdcfd/Card-consumption-pattern-analysis-visualization-competition-Pattern-Analysis/blob/TIL/README.md) 
+
+   - Top 2% (8/400)
 
 - [Covid](https://github.com/qsdcfd/Covid_Dacon)
 
 - [음성분류](https://github.com/qsdcfd/Voice_Classification)
-   - Top2.5%(6위)
+   - Top2.5%(6/217)
 - [물류 유통량예측](https://github.com/qsdcfd/ML_Project)
    - Top 5%
 
