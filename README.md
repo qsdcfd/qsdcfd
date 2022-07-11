@@ -33,9 +33,9 @@
 
 ### Education
 
-- 2022년 구글 스터디 잼 Kubernates
+- 2022년 구글 스터디 잼 Kubernates(초급)
 
-- 2021년 구글 스터디 잼 AI/ML
+- 2021 ~ 2022년 구글 스터디 잼 AI/ML(초급,중급,고급)
 
 - 2022년 데이터 분석 청년인재 양성사업 온라인 교육
 
@@ -212,9 +212,11 @@
 
 - [카드 소비 패턴 분석 시각화](https://github.com/qsdcfd/Card-consumption-pattern-analysis-visualization-competition-Pattern-Analysis/blob/TIL/README.md) 
 
-   - Top 2% (8/400)
+   - Top 1.5% (6/400)
 
 - [Covid](https://github.com/qsdcfd/Covid_Dacon)
+
+  - Top 10%
 
 - [음성분류](https://github.com/qsdcfd/Voice_Classification)
    - Top2.5%(6/217)
