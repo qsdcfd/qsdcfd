@@ -214,7 +214,7 @@
 
 - [카드 소비 패턴 분석 시각화](https://github.com/qsdcfd/Card-consumption-pattern-analysis-visualization-competition-Pattern-Analysis/blob/TIL/README.md) 
 
-   - Top 1.5% (6/400)
+   - Top 1.5% (7/432)
 
 - [Covid](https://github.com/qsdcfd/Covid_Dacon)
 
@@ -243,5 +243,6 @@
 
 - 1년안에 ai 빅데이터 전문가가 되는 법
 - 빅데이터는 어떻게 마케팅의 무기가 되는가
+- 
 - A/B Test THE MOST POWERFUL WAY TO TURN CLICKS INTO CUSTOMERS
 - Be Data Literate: The Data Literacy Skills Everyone Needs To Succeed 1st Edition
