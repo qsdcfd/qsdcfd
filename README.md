@@ -41,7 +41,7 @@
 
    - 
    - GCP, Docekr, Kubernates(초급)
-   ![image](https://user-images.githubusercontent.com/86671456/180398768-05386966-9887-45ed-a027-b8231315b42a.png)
+
 
 
 - 2022년 구글 스터디 잼 AI/ML(초급,중급,고급)[2022.02 ~ 2022.06
@@ -70,7 +70,7 @@
 
 ### 활동
 
-**모두의연구소 LAB**
+**모두의연구소 LAB(2022.04 ~ )**
 
 [Tech & Social Justice LAB](https://modulabs-hub.oopy.io/c874757d-4a5b-431e-808b-324d2e0e786a)
 
