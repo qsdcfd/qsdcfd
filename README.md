@@ -33,11 +33,21 @@
 
 ### Education
 
-- 2022년 구글 스터디 잼 Kubernates(초급)
+- 2022년 NIVIDIA DLI 엠버서더 챌린지 참여
+   
+   - 진행: 데이터 엔지니어링 파이프라인 가속화 ,English
+   
+- 2022년 구글 스터디 잼 Kubernates(초급, 중급 , 고급)[2022.07 ~ 2022.10]
 
-   - GCP, Docekr, Kubernates
+   - 
+   - GCP, Docekr, Kubernates(초급)
+   ![image](https://user-images.githubusercontent.com/86671456/180398768-05386966-9887-45ed-a027-b8231315b42a.png)
 
-- 2021 ~ 2022년 구글 스터디 잼 AI/ML(초급,중급,고급)
+
+- 2022년 구글 스터디 잼 AI/ML(초급,중급,고급)[2022.02 ~ 2022.06
+
+   - GCP, Data Science, ML
+   
 
 - 2022년 데이터 분석 청년인재 양성사업 온라인 교육
 
