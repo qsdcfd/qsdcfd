@@ -34,8 +34,12 @@
 ### Education
 
 - 2022년 NIVIDIA DLI 엠버서더 챌린지 참여
+
+   - Accelerating Data Engineering Pipeline
    
-   - 진행: 데이터 엔지니어링 파이프라인 가속화 ,English
+      - Data Formats
+      - ETL with NVTabular
+      - Data Visualization
    
 - 2022년 구글 스터디 잼 Kubernates(초급, 중급 , 고급)[2022.07 ~ 2022.10]
 
@@ -58,7 +62,8 @@
 - LG Aimers **자율주행**
 
 - 2021 NVIDIA DLI 대학 앰배서더 챌린지 
-   - Transformer Application
+   - 트랜스포머 기반 자연어 처리 애플리케이션 구축
+      - Pytorch
       - GPT-3
       - Bert
 
