@@ -58,7 +58,9 @@
 - LG Aimers **자율주행**
 
 - 2021 NVIDIA DLI 대학 앰배서더 챌린지 
-   - Transformer
+   - Transformer Application
+      - GPT-3
+      - Bert
 
 - 중소기업벤처부 year-dream 2기 진행 중
 
