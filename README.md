@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MinKyeong%20Tak&fontSize=90)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmtak0235&count_bg=%233DC6C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtak0235&langs_count=10&layout=compact&theme=dark)](https://github.com/mtak0235/mtak0235/)
-[![Mtak boj](http://mazassumnida.wtf/api/v2/generate_badge?boj=mtak0235)](https://solved.ac/mtak0235/)
-![Mtak's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtak0235&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtak0235&langs_count=10&layout=compact&theme=dark)](https://github.com/qsdcfd/qsdcfd/)
+[![Mtak boj](http://mazassumnida.wtf/api/v2/generate_badge?boj=mtak0235)](https://solved.ac/tpgus343/)
+![Mtak's GitHub stats](https://github-readme-stats.vercel.app/api?username=qsdcfd&show_icons=true&theme=radical)
 
 # Tech Stack
 ## Platforms & Languages
