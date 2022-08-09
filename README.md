@@ -4,8 +4,11 @@
 ### 교육
 
 -	2022.03 ~ 2022.12   이어드림스쿨 2기/ 중소벤처기업진흥공단
--	2022.07 ~ 2022.10   인공지능융합학교 2기
+- 2022.07 ~ 2022.11   WEB TECH CAMP /과학기술정보통신부
+    - Next.js with stack biltz, eXPRESSjsm React, react native, nestjs, fluter, nft
+-	2022.07 ~ 2022.10   인공지능융합학교 2기 /서울 빅데이터 연구원
 -	2022.07 ~ 2022.10   오픈소스 컨트리뷰션 아카데미(Apache Zeppelin) / 과학기술정보통신부
+- 2022.08 ~ 2022.10   GDG 쿠버네티스 스터디 /Festio , Busan
 -	2022.07 ~ 2022.09   NVIDIA DLI 엠버서더 챌린지(Accelerating Data Engineering Pipelines)/NVIDAI
 -	2022.07 ~ 2022.08   LG Aimers / LG
 -	2022.06 ~ 2022.10   Google Cloud Study Jam Kubernates/ 구글
