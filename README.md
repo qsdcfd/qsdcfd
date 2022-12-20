@@ -77,7 +77,7 @@
 
 ### Project
 
-- 유튜버 제목 추천
+- [유튜버 제목 추천](https://github.com/dothis-world)
 
 - 도서 추천 시스템
 
