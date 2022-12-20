@@ -79,7 +79,7 @@
 
 - [유튜버 제목 추천](https://github.com/dothis-world)
 
-- 도서 추천 시스템
+- [도서 추천 시스템](https://github.com/Recommend-System-15/medistream-recsys)
 
 -	소고기 품질 진단(노션)
 	Instance Segmentation
