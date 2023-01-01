@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-[![Github Badge](https://img.shields.io/badge/-veggie--garden-grey?style=flat&logo=github&logoColor=white&link=https://github.com/qsdcfd/)](https://www.github.com/qsdcfd/) 
+[![Github Badge](https://img.shields.io/badge/-qsdcfd-grey?style=flat&logo=github&logoColor=white&link=https://github.com/qsdcfd/)](https://www.github.com/qsdcfd/) 
 [![Gmail Badge](https://img.shields.io/badge/-leesehyun01@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devcseo@gmail.com)](mailto:leesehyun01@gmail.com) 
 [![Velog](https://img.shields.io/badge/GitHub.io-orange?style=flat&logoColor=white)](https://velog.io/@qsdcfd/)
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](https://tpgus343.tistory.com/)
