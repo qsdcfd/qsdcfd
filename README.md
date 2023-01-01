@@ -17,7 +17,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpgus343)](https://www.acmicpc.net/user/tpgus343)
 
 #### ⏲️ Work Stats
-[![veggie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qsdcfd)](https://wakatime.com/@qsdcfd) 
+<!-- [![veggie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qsdcfd)](https://wakatime.com/@qsdcfd) 
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
