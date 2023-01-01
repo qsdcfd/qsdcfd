@@ -64,9 +64,9 @@ Markdown                 2 mins              ░░░░░░░░░░░�
 
 </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=qsdcfd&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/qsdcfd/github-readme-stats) -->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=qsdcfd&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/qsdcfd/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veggie-garden&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/qsdcfd/github-readme-stats)   -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veggie-garden&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/qsdcfd/github-readme-stats)  
 
 <!--
 **veggie-garden/veggie-garden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -90,9 +90,6 @@ Here are some ideas to get you started:
 
 - [도서 추천 시스템](https://github.com/Recommend-System-15/medistream-recsys)
 
--	소고기 품질 진단(노션)
-	Instance Segmentation
-	Web publish
 
 -	마켓컬리 해커톤
 	신규고객의 cold start문제 해결집중
