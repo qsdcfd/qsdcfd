@@ -18,7 +18,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpgus343)](https://www.acmicpc.net/user/tpgus343)
 
 #### ⏲️ Work Stats
-<!-- [![veggie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qsdcfd)](https://wakatime.com/@veggie_garden) -->
+[![veggie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qsdcfd)](https://wakatime.com/@veggie_garden) -->
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -90,13 +90,5 @@ Here are some ideas to get you started:
 
 - [도서 추천 시스템](https://github.com/Recommend-System-15/medistream-recsys)
 
-
--	마켓컬리 해커톤
-	신규고객의 cold start문제 해결집중
-	Implict data 수집 및 활용 방안 공부
-
--	영화 추천
-	CBF알고리즘 기반
-	추천된 영화 유튜버도 추천
 
 
