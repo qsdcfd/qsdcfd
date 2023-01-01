@@ -1,79 +1,88 @@
 
-## 다양한 데이터를 좋아하는  이세현입니다.
-**데이터뿐만 아니라 개발/ 개발 외의 지식에도 관심과 호기심이 많습니다**
+# Hi there 👋
 
-### 교육
+[![Github Badge](https://img.shields.io/badge/-veggie--garden-grey?style=flat&logo=github&logoColor=white&link=https://github.com/veggie-garden/)](https://www.github.com/veggie-garden/) 
+[![Gmail Badge](https://img.shields.io/badge/-devcseo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devcseo@gmail.com)](mailto:devcseo@gmail.com) 
+[![GitHub.io](https://img.shields.io/badge/GitHub.io-orange?style=flat&logoColor=white)](https://veggie-garden.github.io/)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](https://veggie-garden.tistory.com/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://github.com/veggie-garden)
+[![wakatime](https://wakatime.com/badge/user/4d52d940-efc7-4eda-bca8-afb77a6dfa02.svg)](https://wakatime.com/@4d52d940-efc7-4eda-bca8-afb77a6dfa02)
+<!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/veggie-garden/)](https://github.com/veggie-garden/)  -->
+[![cheseo's 42 stats](https://badge42.vercel.app/api/v2/cl60mftnf000609mv65leer9m/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
+
+## 💬 About me
+- 🌱 I’m currently learning front-end skills
+- ❤️ I love to code and read
+<!-- - ⚡ Fun fact: I can sleep more than 12 hours straight -->
+
+#### 🎖️ Ranking
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mm9176715)](https://www.acmicpc.net/user/mm9176715)
+
+#### ⏲️ Work Stats
+<!-- [![veggie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=veggie_garden)](https://wakatime.com/@veggie_garden) -->
+
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
+🌆 Daytime    99 commits     ██████░░░░░░░░░░░░░░░░░░░   26.76% 
+🌃 Evening    135 commits    █████████░░░░░░░░░░░░░░░░   36.49% 
+🌙 Night      89 commits     ██████░░░░░░░░░░░░░░░░░░░   24.05%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       58 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
+Tuesday      63 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.03% 
+Wednesday    62 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.76% 
+Thursday     31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.38% 
+Friday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
+Saturday     33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.92% 
+Sunday       74 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0%
+
+```
 
 
-- 2023.01 ~ 2022.02  LG Aimers / LG
--	2022.03 ~ 2022.12   이어드림스쿨 2기/ 중소벤처기업진흥공단
-- 2022.07 ~ 2022.11   WEB TECH CAMP /과학기술정보통신부
+📊 **This Week I Spent My Time On** 
 
--	2022.07 ~ 2022.10   인공지능융합학교 2기 /서울 빅데이터 연구원
--	2022.07 ~ 2022.10   오픈소스 컨트리뷰션 아카데미(Apache Zeppelin) / 과학기술정보통신부
-- 2022.08 ~ 2022.10   GDG 쿠버네티스 스터디 /Festio , Busan
--	2022.07 ~ 2022.09   NVIDIA DLI 엠버서더 챌린지(Accelerating Data Engineering Pipelines)/NVIDAI
--	2022.07 ~ 2022.08   LG Aimers / LG
--	2022.06 ~ 2022.10   Google Cloud Study Jam Kubernates/ 구글
--	2022.02 ~ 2022.07   Google Cloud Study Jam AI/ML/ 구글
-- 2022.03 ~ 2022.03   인슈어테크 / KISA
--	2022.01 ~ 2022.03   NVIDIA DLI 엠버서더 챌린지(트랜스포머 기반 애플리케이션 구축)/ NVIDIA
--	2021.09 ~ 2022.03   인공지능전문가과정  / 모두의연구소
+```text
+⌚︎ Time Zone: Asia/Seoul
 
-<br>
+💬 Programming Languages: 
+C                        4 hrs 40 mins       █████████████████████░░░░   85.86% 
+Makefile                 43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44% 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
 
-### 경력
+```
 
 
--	2022.08 ~ 2022.10 :  AI전문가 과정(실습코치) / 서울시교육청
--	2022.05 ~ 2022.06:  데이터분석 청년인턴 / NIA
--	2022.03 ~ 2022.03:  강남캠퍼스 퍼실레이터 / 모두의연구소
--	2021.09 ~ 2021.12:  공공데이터 검수 및 라벨링 / NIA
+<!--END_SECTION:waka-->
 
-<br>
+#### 🛠️ Github Stats
+<p>
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=veggie-garden&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=veggie-garden&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
+<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=veggie-garden&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/veggie-garden/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veggie-garden&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/veggie-garden/github-readme-stats)   -->
 
-### 연구 및 활동
+<!--
+**veggie-garden/veggie-garden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--	2022.04 ~ Tech & Social Justice LAB(댓글 감성 분석) / 모두의연구소 LAB
--	2022.07.18 : 웹 개발자 멘토링/역ICT이노베이션 확산사업 전문가 멘토링 프로그램
--	2022.08 ~ 2022.09: GDG Cloud Busan Kubernates
--	2022.07 ~ 2022.12: 딥러닝 논문읽기 모임 4기 /유튜브 딥러닝 읽기 모임
--	2022.07 ~ 2022.10 Zeppeline build error issue in Window 관련 내용 github PR/오픈소스 아카데미
--	2022.06 ~ 2022.09 추천시스템 콘텐츠 크리에이터/ 모두의연구소
--	2021.12 ~ 2022.03 컴퓨터비전 콘텐츠 크리에이터/ 모두의연구소
--	2021.09 ~ 2022.03 딥러닝 논문 21편 정리 및 발표/ 아이펠 
+Here are some ideas to get you started:
 
-<br>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-### Competitions(Dacon)
-
-- 숫자 3D 이미지 분류 경진대회
-- 자율주행 성능 예츠 / LG 연구원
-- 쇼핑몰 리뷰 평점 시각화 경진대회 TOP 4
-- 쇼핑몰 지점별 매출액 시각화 경진대회 TOP 10
--	쇼핑몰 리뷰 평점 분류 경진대회: 코드 공유 특별상(데이콘 후드 수상) TOP 10%
--	쇼핑몰 지점별 매출액 예측 경진대회: TOP 8%
--	신용카드 사기 거래 탐지 AI 경진대회: TOP 12%
--	카드 소비 패턴 분석 시각화 경진대회: TOP 7
--	음향 데이터 COVID-19 검출 AI 경진대회: TOP 10%
--	음성 분류 경진대회: TOP 6
--	물류 유통량 예측 경진대회: TOP 5%
-
-<br>
-
-### Competitions(Kaggle)
-
--	Costa_Rican_Household_Poverty_Level_Prediction : Top 6%
--	Home_Credict Default_Risk : Top 2%
--	Porto_Seguro’s Safe Driver_Prediction: Top 3%
-
-<br>
-
-### Competitions(창업)
-
--	제주도 공공데이터 활용 창업경진대회
-
-<br>
 
 ### Project
 
