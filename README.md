@@ -66,7 +66,7 @@ Markdown                 2 mins              ░░░░░░░░░░░�
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=qsdcfd&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/qsdcfd/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veggie-garden&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/qsdcfd/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qsdcfd&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/qsdcfd/github-readme-stats)  
 
 <!--
 **veggie-garden/veggie-garden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
