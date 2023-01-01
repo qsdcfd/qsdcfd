@@ -10,7 +10,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/qsdcfd/)](https://github.com/qsdcfd/)  
 
 ## 💬 About me
-- 🌱 I’m currently learning front-end skills
+- 🌱 I’m currently learning Data Engineering skills
 - ❤️ I love to code and read
 <!-- - ⚡ Fun fact: I can sleep more than 12 hours straight -->
 
