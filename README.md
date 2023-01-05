@@ -2,7 +2,7 @@
 # Hi there 👋
 
 [![Github Badge](https://img.shields.io/badge/-qsdcfd-grey?style=flat&logo=github&logoColor=white&link=https://github.com/qsdcfd/)](https://www.github.com/qsdcfd/) 
-[![Linkledin](https://img.shields.io/badge/Velog-orange?style=flat&logoColor=Linkledin)](https://www.linkedin.com/in/%EC%84%B8%ED%98%84-%EC%9D%B4-b35aa8241/)
+[![Linkledin](https://img.shields.io/badge/Velog-blue?style=flat&logoColor=white)](https://www.linkedin.com/in/%EC%84%B8%ED%98%84-%EC%9D%B4-b35aa8241/)
 [![Gmail Badge](https://img.shields.io/badge/-leesehyun01@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devcseo@gmail.com)](mailto:leesehyun01@gmail.com) 
 [![Velog](https://img.shields.io/badge/Velog-orange?style=flat&logoColor=white)](https://velog.io/@qsdcfd/)
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](https://tpgus343.tistory.com/)
