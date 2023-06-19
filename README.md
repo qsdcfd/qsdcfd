@@ -59,13 +59,6 @@ Markdown                 2 mins              ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-#### 🛠️ Github Stats
-<p>
-
-</p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=qsdcfd&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/qsdcfd/github-readme-stats) 
-
 
 <!--
 **veggie-garden/veggie-garden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
