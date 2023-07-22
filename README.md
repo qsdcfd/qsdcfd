@@ -80,11 +80,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=qsdcfd&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
-### Project
-
-- [유튜버 제목 추천](https://github.com/dothis-world)
-
-- [도서 추천 시스템](https://github.com/Recommend-System-15/medistream-recsys)
 
 
 
