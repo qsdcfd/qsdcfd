@@ -5,7 +5,6 @@
 [![Linkledin](https://img.shields.io/badge/Linkledin-blue?style=flat&logoColor=white)](https://www.linkedin.com/in/%EC%84%B8%ED%98%84-%EC%9D%B4-b35aa8241/)
 [![Gmail Badge](https://img.shields.io/badge/-leesehyun01@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devcseo@gmail.com)](mailto:leesehyun01@gmail.com) 
 
-
 ## 💬 About me
 
 # Founded Experience.
@@ -30,15 +29,12 @@
 <details>
 <summary>Tech-Skills</summary>
 <div markdown="1">
-
 AWS
-
 </div>
 </details>
 
 ---
 
-<br>
 
 # Work Experience.
 
@@ -104,6 +100,15 @@ AWS
 
 - **데이터 품질 판별을 위한 KPI 지표를 기획/마케팅팀과 재설정한 후 전사에 교육 작업 진행**
 - **데이터 바우처 참여 기업이 제공한 정형 데이터(SQL)과 비정형 데이터(Python)을 활용하여 데이터 품질에 관한 보고서 및 대시보드 제작**
+
+<details>
+<summary>Tech-Skills</summary>
+<div markdown="1">
+
+Mysql,
+
+</div>
+</details>
 
 ---
 
