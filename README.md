@@ -8,19 +8,17 @@
 
 ## 💬 About me
 
-# 🪄Founded Experience.
+# Founded Experience.
 
-## 두디스
-
-유튜버들의 고민을 해결해주는 빅데이터 기반의 컨설팅 회사
+## 두디스(Data Analysis Saas)
 
 **총 업무 기간: 진행 중**
 
-*Data Scienctist*
+*Engineering Analyst*
 
-2022.11~ing
+2022.11~ing(9개월)
 
-- **Business Intelligence**
+### Work-Project
 
 - **사내 데이터 분석 및 검색 엔진을 위한** **Data Pipeline 구축 by AWS**
    - OLAP
@@ -28,133 +26,84 @@
 - **자연어 생성 모델 서비스 개발 및 기획**
 
 - **Data 판매 전략**
+
+<details>
+<summary>Tech-Skills</summary>
+<div markdown="1">
+
+AWS
+
+</div>
+</details>
+
 ---
+
+<br>
 
 # Work Experience.
 
-## 윙크스톤파트너스
+## 윙크스톤파트너스(Fintech)
 
-중소상공인 대상 데이터 기반 금융서비스 윙크스톤파트너스
+*Engineering Analyst*
 
-**총 업무 기간: 진행 중**
+기간: 2023.05 ~ ing(3개월)
 
-Data Scienctist
+### Work-Project
 
-2023.05 ~ ing
+- **워크로드와 비즈니스를 고려한 데이터 모델링 및 데이터 마트 설계**
+   - OLAP
+- **사용자 요구 정의서 바탕으로 데이터 수집 및 스케쥴링**
+- **CSS 신용평가모델 로직 산출**
+- **현업팀의 니즈/비효율적 업무 프로세스 개선을 위한 개발팀과 백오피스 개발**
+- **협력 기업의 데이터 API 설계 및 파싱 후 DB/S3 적재**
 
-- **Business Intelligence**
-    
-    회사의 니즈:
-    
-    회사의 상황:
-    
-    Before / After
-    
-    - **워크로드와 비즈니스를 고려한 데이터 모델링 및 데이터 마트 설계**
-        - 데이터 파이프라인 구축을 위한 Data Flow 도식화 후 전사에 교육 진행
-        - *사용자 요구사항 정의서 기반으로 클라우드 기능 선정 및 데이터베이스 설계*
-            - 당사/ 외주사의 데이터베이스를 정의(물리적 스키마)
-                - 당사 DB: Maria DB, 외주사 DB: Postgre
-                - Cloud: Mysql & MongoDB
-            - 여러 데이터베이스와 테이블의 관계도(E-R모델) 설정[논리적스키마]
-            - View 스키마 구성을 바탕으로 데이터 마트 생성
-                - BI를 위한 데이터 시각화 도구 선정(Tableau, Kibana)
-    - **사용자 요구 정의서 바탕으로 데이터 수집 및 스케쥴링**
-        - 목적1 : 전사가 동일한 데이터를 보며 일할 수 있도록 기본적인 데이터 인프라 세팅 및 대시보드 제작
-        - Airflow를 활용
-            - 데이터 크롤링 주기 설정(1hour)
-            - 크롤링 이슈 → slack 연동
-            - 크롤링 데이터→ Object Storage →  Maria DB 적재
-        - Django API 스케쥴러를 기반으로 로그 데이터 배치 및 실시간 데이터 수집을 통해서 정합성 이상 감지(외주사와 협업 진행)
-            - Airflow는 log history는 남지만 저장되지 않는 이슈가 있다.
-        - Hadoop Ecosystem기반 데이터 운영 효율화 및 자동화 파이프라인 구축
-            - Spark 및 Hive 활용
-        
-    - **MLops 기획**
-        - 현금 흐름 예측 / 상권분석을 위한 ML 모델 결과를 Docker-Kubernetes기반으로 저장
-        - Product & Service적용을 위한 백엔드팀과 협업을 통해서 Restful API 배포 진행
+<details>
+<summary>Tech-Skills</summary>
+<div markdown="1">
 
-## 이음메디컬세일즈플랫폼
+AWS
 
-3500여개 병원과 함께하는 CSO 업계1등 이음메디컬세일즈플랫폼
+</div>
+</details>
 
-**총 업무 기간: 7개월**
+## 이음메디컬세일즈플랫폼(Sales-Saas)
 
-Data Scienctist
+*Data Scienctist*
 
-2022.10-2023.04
+2022.10-2023.02(5개월)
 
-- **Business Intelligence**
-    
-    회사의 니즈:
-    
-    회사의 상황:
-    
-    Before / After
-    
-    - **검색/조회 시스템 변경 및 추천시스템 개발**
-        - VOC1 : 검색/조회 기능 강화
-            - 제품 이름과 성분이 잘못된 약품 수정 진행
-            - 성분별 의약품 Grouping by K-means Clustering
-            - Query형 조회로 인해서 검색 속도가 느려짐
-                - EC2 → Kinesis Streams→ Opensearch구조로 웹 크롤링 방식 진행
-                - 검색 속도 20% 상승 및 속도 저하 문의 65% 감소
-        - VOC2: 협업 필터링
-            - 구매 데이터 기반인 협업 필터링 방식 진행
-            - 공공데이터 API와 당사 데이터를 활용해서 LBS 시스템을 이용하여 의원별 추천시스템 진행
-            - 폐쇄몰이라서 데이터가 작으므로 인기 제품 sorting방식
-            - 동일 약품 대비 당사 매출에 이득이 되는 약품 추천을 위한 가중치 모델 구현
-        - Gitlab& Jenkins를 활용하여 애플리케이션 프로그래밍 인터페이스 개발 및 테스트 자동화 수행
-    - **추천시스템과 자연어처리를 활용하기 위한 당사 웹사이트 유저 분석 및 기술 기획 (**2022.10-2023.02)
-        - 마케팅부터 최종 결제까지의 퍼널 전체 데이터를 보며 랜딩 페이지 기획/개발, 기존 홈페이지 대비 결제 전환율 150% 개선
-        - 페르소나 구축
-            - 폐쇄몰이라는 특성과 과거의 데이터를 활용하여 유저 세그먼트 진행
-                - 한정된 지역, 한정된 병과라는 것을 통해서 사용자의 특징 파악하는 방식인 Attitudinal Segmentation 진행
-        - 유저가 원하는 서비스를 Sentimental Segmentation 조사 진행
-            - 수집된 VOC 데이터를 바탕으로 “추천시스템” 베타 버전 방식 수립
-                - voc1: 제품과 성분 이름 명 조회가 느리다.
-                - voc2: 유사한 약 정보 / 병과 정보를 바탕으로 추천 제품이 나오기
-                - voc3: 전월 구매 데이터가 당월 장바구니에 담기도록
-        - 당사 쇼핑몰 웹 사이트 내 유저 행동 파악
-            - 유저의 Log 데이터를 Membership analysis방식으로 진행
-                - GA활용
-            - 디자이너와 함께 광고 CTR을 높이기 위해서 리치 미디어 광고와 검색 광고의 배치
-        - 신규 유저(영업 담당자)가 구매까지 도달할 수 있도록 AARRR & Funnel을 Mix하여 진행
-            - 폐쇄몰과 제약업계 특성상 한 번 유입된 유저는 크게 벗어나지 않기에 신규 유저 흡수가 중요
-            - 단순 웹사이트 광고뿐만 아니라 신규 유저의 업력과 과거 이력 기반 관리형 포토폴리오 작성 및 정기적으로 배부
-        - AWS RDS, Athena, Python, Spark sql(Pyspark), GA, DA
-    - **자사의 수익성을 높이는 동시에 의사결정의 위험을 완화 목적인 Predictive Analytics Reporting(**2022.10-2023.01)
-        - 기존의 KPI를 바탕으로 Risk 관리를 위한 새로운 KPI지표 설정
-            - 기존 KPI로 잡지 못했던 매출 손해 및 증대 약품/회사 선별
-            - 추가적인 수수료 조정을 통해서 자사 매출 10% 상승
-        - 월 매출 담당자/물품 예상 매출 평가 모형 모니터링 개발
-            - 영업 담당자의 매출/영업 관련 데이터 및 지역 유동인구,약국-병원등의 공공데이터를 활용해서 예상 담당자별 월 매출 및 전략적인 판매 약품 선정(Predict LTV, Power BI 활용)
-            - 영업 담당자의 매출 18%증대, 회사 매출 5% 증가
-                - 자사 매출의 격차 이유: 당사에게 이득이 되는 약품이 아닌 담당자에게 이득이 되는 약품 판매
-                    - 과거 데이터 기반으로 Anomlay Detection기법을 통해서 **체리피커 담당자 checking.**
-        - 업무 자동화(AWS, ML, Python, Fast API)
-            - 사내 웹 사이트 개발 with 프리랜서 외주 업체
-            - 평가 모형 및 Portofolio의 자동화
-            - ML pipeline: S3→Sagemaker 이용
-            - Data Pipeline: RDS → S3 → Athena → Quicksight
-        - Sentimental Segmentation기법을 통해서 HR팀과 바뀐 방식에 대한 반응 파악을 위한 후속 모니터링 진행 문제를 해결하는 문화 확산
+### Work-Project
+
+- **검색/조회 시스템 변경 및 추천시스템 개발**
+- **추천시스템과 자연어처리를 활용하기 위한 당사 웹사이트 유저 분석 및 기술 기획**
+- **자사의 수익성을 높이는 동시에 의사결정의 위험을 완화 목적인 Predictive Analytics Reporting**
+- **업무 자동화(AWS, ML, Python, Fast API)**
 
 ---
 
-## **NIA**
+<details>
+<summary>Tech-Skills</summary>
+<div markdown="1">
 
-공공데이터 기업매칭 청년인턴십은 공공데이터 분야 청년 인턴십을 통해 취업을 준비하는 청년들에게 일경험을 제공하고 전문 교육을 통해 역량 강화를 지원하기 위한 프로그램
+AWS
+
+</div>
+</details>
+
+
+
+## NIA(Agency)
 
 **총 업무 기간: 4개월**
 
-**Data Analyst**
+*Data Analyst*
 
-**Apprentice**
+2021.09-2021.12(4개월)
 
-2021.09-2021.12
+### Work-Project
 
-- 데이터 품질 판별을 위한 KPI 지표를 기획/마케팅팀과 재설정한 후 전사에 교육 작업 진행
-- 데이터 바우처 참여 기업이 제공한 정형 데이터(SQL)과 비정형 데이터(Python)을 활용하여 데이터 품질에 관한 보고서 및 대시보드 제작
+- **데이터 품질 판별을 위한 KPI 지표를 기획/마케팅팀과 재설정한 후 전사에 교육 작업 진행**
+- **데이터 바우처 참여 기업이 제공한 정형 데이터(SQL)과 비정형 데이터(Python)을 활용하여 데이터 품질에 관한 보고서 및 대시보드 제작**
 
 ---
 
