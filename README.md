@@ -166,33 +166,41 @@ Mysql,
 
 ## Technology
 
-### Backend
 
-Python 
+### Python
+
 FastAPI | Django | Django REST Framework
 
-Database
+### Database
 
 MySQL | PostgreSQL | Redis | MongoDB
 
-Software Design
+### Software Design
+
 Domain-Driven Design | Microservice Architecture
 
-Event Streaming
+### Event Streaming
+
 Kafka
 
-DevOps
+### DevOps
+
 IaC
+
 AWS CDK | Terraform
 
 CI/CD
+
 Github Actions | Jenkins
 
 Monitoring
+
 Datadog
 
-Cloud
+### Cloud
+
 AWS
 
-Data Analysis & BI
+### Data Analysis & BI
+
 SQL | BigQuery | PowerBI | Tableau
