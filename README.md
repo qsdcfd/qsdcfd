@@ -4,7 +4,6 @@
 [![Linkledin](https://img.shields.io/badge/Linkledin-blue?style=flat&logoColor=white)](https://www.linkedin.com/in/%EC%84%B8%ED%98%84-%EC%9D%B4-b35aa8241/)
 [![Gmail Badge](https://img.shields.io/badge/-leesehyun01@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devcseo@gmail.com)](mailto:leesehyun01@gmail.com) 
 
-
 # Founded Experience.
 
 ## 두디스(Data Analysis Saas)
@@ -160,3 +159,40 @@ Mysql,
 
 </div>
 </details>
+
+---
+
+# Skills
+
+## Technology
+
+### Backend
+
+Python 
+FastAPI | Django | Django REST Framework
+
+Database
+
+MySQL | PostgreSQL | Redis | MongoDB
+
+Software Design
+Domain-Driven Design | Microservice Architecture
+
+Event Streaming
+Kafka
+
+DevOps
+IaC
+AWS CDK | Terraform
+
+CI/CD
+Github Actions | Jenkins
+
+Monitoring
+Datadog
+
+Cloud
+AWS
+
+Data Analysis & BI
+SQL | BigQuery | PowerBI | Tableau
